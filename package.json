@@ -1,0 +1,20 @@
+{
+  "name": "nodeprj1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "robotjs": "^0.6.0",
+    "wait-for-stuff": "^1.4.0",
+    "web-audio-api": "^0.2.2"
+  },
+  "dependencies": {
+    "speaker": "^0.5.3"
+  }
+}
